@@ -84,8 +84,9 @@ input{
         font-size: 0.9rem;
     }
     .box{
-        width: 100vw;
-        margin: 0;
+        width: 92vw;
+        margin-left: 4vw;
+        margin-top: 1.5rem;
     }
     #userinput{
         margin-left: 0;
